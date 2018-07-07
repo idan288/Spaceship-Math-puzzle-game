@@ -1,18 +1,1 @@
-﻿  Artifact.cpp
-  ClockRotateScreen.cpp
-  FlyingCreature.cpp
-  GameManager.cpp
-  io_utils.cpp
-  main.cpp
-  MathExercise.cpp
-  Num.cpp
-  NumEater.cpp
-  Object.cpp
-  Operand.cpp
-  Point.cpp
-  ScreenNumber.cpp
-  Spaceship.cpp
-  Strikes.cpp
-  TheMathGame.cpp
-  Generating Code...
-  Game.vcxproj -> C:\Users\idan\Dropbox\C++\Game\Debug\Game.exe
+﻿
