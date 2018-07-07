@@ -1,1 +1,47 @@
-﻿
+﻿  Artifact.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ClockRotateScreen.cpp
+  FlyingCreature.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  GameManager.cpp
+c:\users\idan\dropbox\c++\game\game\gamemanager.cpp(347): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\gamemanager.cpp(355): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\gamemanager.cpp(365): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\gamemanager.cpp(370): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  io_utils.cpp
+  main.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MathExercise.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Num.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  NumEater.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Object.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Operand.cpp
+  Point.cpp
+  ScreenNumber.cpp
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Spaceship.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Strikes.cpp
+  TheMathGame.cpp
+c:\users\idan\dropbox\c++\game\game\object.h(94): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\screennumber.h(24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\themathgame.cpp(496): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\themathgame.cpp(587): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\themathgame.cpp(938): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\themathgame.cpp(1512): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\themathgame.cpp(1985): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idan\dropbox\c++\game\game\themathgame.cpp(1997): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Game.vcxproj -> C:\Users\idan\Dropbox\C++\Game\x64\Debug\Game.exe
